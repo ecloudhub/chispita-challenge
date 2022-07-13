@@ -43,7 +43,8 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
 ### Sidequest 4
 - Agregar slider de imágenes al hero 🎠. Comportamiento:
   - Las imágenes se mueven horizontalmente de forma automática
-  - El paginador debe mostrar la página activa con una pequeña de barra de carga que crece
+  - El paginador debe funcionar al hacer click
+  - Mostrar la página activa con una pequeña de barra de carga que crece hasta cambiar a la siguiente página
 
 ### Sidequest 5
 - El cliente vio que la página del hotel de la competencia tiene un cursor que sigue al mouse a todas partes. Agregar un cursor circular que siga al mouse y tenga el siguiente comportamiento:
