@@ -41,7 +41,7 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
 - Hacer que el nav se oculte al scrollear hacia abajo, y que vuelva a aparecer al scrollear hacia arriba
 
 ### Sidequest 4
-- Agregar slider de imágenes al hero. Comportamiento:
+- Agregar slider de imágenes al hero 🎠. Comportamiento:
   - Las imágenes se mueven horizontalmente de forma automática
   - El paginador debe mostrar la página activa con una pequeña de barra de carga que crece
 
