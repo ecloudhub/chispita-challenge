@@ -1,6 +1,6 @@
 # Chispita Frontend Challenge
 
-El desafío es armar una homepage para Nomad, un conjunto de hoteles para trabajadores nómades como muchos de nuestros `Chispitas` 🧳
+El desafío es armar una homepage para Nomad, una cadena de hoteles para trabajadores nómades (como muchos de nosotros 🧳)
 
 ## Instrucciones generales:
 - [El diseño](https://www.figma.com/file/3i8cpMAejvHgRdsaFGaFHj/Chispa-Challenge-Nomad) está subido a Figma, la app que usamos para todos nuestros proyectos
