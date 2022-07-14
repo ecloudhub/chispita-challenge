@@ -9,7 +9,7 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
   - De los sides tenés que hacer al menos uno, pero mientras más hagas obvio que mejor!
 - Stack tecnológico 🤖:
   - `Next.js` cargando la información del lado del servidor para mejorar el SEO de la página
-  - Para CSS + componentes usamos `Chakra-UI` pero sentite libre de usar lo que quieras!
+  - Para CSS + componentes usamos `Chakra-UI` pero, sentite libre de usar lo que quieras!
   - Para fetchear data nos gusta usar React Query y Axios, pero lo dejamos a tu criterio
   - Preferimos Typescript 🤟
   - Podés usar cualquier librería extra con la que te sientas cómodo
@@ -34,7 +34,7 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
 - Llamar al endpoint de disponibilidad solo cuando se abra el drawer de reserva
 
 ### Sidequest 1
-- Maquetar el diseño para celulares con la metodología mobile first (recomiendación: si elegís hacer esto, planealo desde el principio 😉)
+- Maquetar el diseño para celulares con la metodología mobile first (recomendación: si elegís hacer esto, planealo desde el principio 😉)
 
 ### Sidequest 2
 - Al equipo de UX/UI se olvidó de agregar los estilos para los hovers de los componentes 🙄. Usando tu propio criterio, sumale estilos y transiciones a los elementos que consideres deberían tenerlos
