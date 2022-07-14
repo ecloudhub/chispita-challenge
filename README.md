@@ -54,4 +54,6 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
 ### Sidequest 5
 - Nos acordamos tarde de que los hoteles reciben tráfico de todo el mundo 👽. Agregarle funcionalidad al botón `English` del nav, haciendo que todo el sitio se traduzca al inglés (Goole Translate FTW)
 
-Happy coding! 👾
+**Happy coding!** 👾
+
+> Dudas? Sentite libre de escribirnos o de [agendarnos 15 minutos](https://ponty.app/joacoalonso/15min)
