@@ -3,7 +3,7 @@
 El desafío es armar una homepage para Nomad, una cadena de hoteles para trabajadores nómades (como muchos de nosotros 🧳)
 
 ## Instrucciones generales:
-- [El diseño](https://www.figma.com/file/3i8cpMAejvHgRdsaFGaFHj/Chispa-Challenge-Nomad) está subido a Figma, la app que usamos para todos nuestros proyectos
+- [El diseño](https://www.figma.com/file/3i8cpMAejvHgRdsaFGaFHj/Chispa-Challenge-Nomad) está subido a Figma, la app que usamos para todos nuestros proyectos. A veces es más cómodo tener permisos de edición para tener un mayor control sobre el board, para esto recomendamos copiarse todo el contenido y pegarlo en uno nuevo 🙃.
 - Armamos varios niveles de complejidad:
   - El main es el único obligatorio
   - De los sides tenés que hacer al menos uno, pero mientras más hagas obvio que mejor!
