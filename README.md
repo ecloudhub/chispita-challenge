@@ -10,9 +10,9 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
 - Stack tecnológico 🤖:
   - `Next.js` cargando la información del lado del servidor para mejorar el SEO de la página
   - Para CSS + componentes usamos `Chakra-UI` pero, sentite libre de usar lo que quieras!
-  - Para fetchear data nos gusta usar React Query y Axios, pero lo dejamos a tu criterio
   - Preferimos Typescript 🤟
   - Podés usar cualquier librería extra con la que te sientas cómodo
+- Necesitamos que subas el resultado a vercel y nos des el link
 - No te olvides de subirlo a Github
 
 ### Main Story
@@ -25,11 +25,6 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
     - Al hacer hover sobre un hotel se le aplica un blur a la caja y se expande la descripción
     - Utilizar alguna librería de slider. Tener cuidado de que al llegar al último slide quede alineado con el contenedor
   - Footer
-- Crear una API utilizando el router que provee Next.js, que devuelva la data que consume la página. Endpoints:
-  - `/api/nav`: devuelve un array con los links para el nav
-  - `/api/footer`: devuelve la data para el footer
-  - `/api/home`: devuelve la data para los componentes generales de la home
-  - `/api/hotels/availability`: devuelve el listado de hoteles con información sobre disponibilidad para utilizar en el drawer
 - Llamar a los endpoints de contenido para poder renderizar la home desde el servidor
 - Llamar al endpoint de disponibilidad solo cuando se abra el drawer de reserva
 
@@ -56,4 +51,4 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
 
 **Happy coding!** 👾
 
-> Dudas? Sentite libre de escribirnos o de [agendarnos 15 minutos](https://ponty.app/joacoalonso/15min)
+> Dudas? Sentite libre de escribirnos.
