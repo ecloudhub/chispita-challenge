@@ -1,15 +1,15 @@
-# Chispita Frontend Challenge
+# Ecloud Frontend Challenge
 
 El desafío es armar una homepage para Nomad, una cadena de hoteles para trabajadores nómades (como muchos de nosotros 🧳)
 
 ## Instrucciones generales:
-- [El diseño](https://www.figma.com/file/3i8cpMAejvHgRdsaFGaFHj/Chispa-Challenge-Nomad) está subido a Figma, la app que usamos para todos nuestros proyectos. A veces es más cómodo tener permisos de edición para tener un mayor control sobre el board, para esto recomendamos copiarse todo el contenido y pegarlo en uno nuevo 🙃.
+- [El diseño](https://www.figma.com/design/y06rSLImOcbTmEbmbriZfY/Frontend---Challenge) está subido a Figma. A veces es más cómodo tener permisos de edición para tener un mayor control sobre el board, para esto recomendamos copiarse todo el contenido y pegarlo en uno nuevo 🙃.
 - Armamos varios niveles de complejidad:
   - El main es el único obligatorio
   - De los sides tenés que hacer al menos uno, pero mientras más hagas obvio que mejor!
 - Stack tecnológico 🤖:
-  - `Next.js` cargando la información del lado del servidor para mejorar el SEO de la página
-  - Para CSS + componentes usamos `Chakra-UI` pero, sentite libre de usar lo que quieras!
+  - `Next.js` con `App Router` cargando la información del lado del servidor para mejorar el SEO de la página
+  - Para CSS y componentes usamos `Chakra-UI v3`, pero sentite libre de usar lo que quieras!
   - Preferimos Typescript 🤟
   - Podés usar cualquier librería extra con la que te sientas cómodo
 - Necesitamos que subas el resultado a vercel y nos des el link
@@ -47,7 +47,10 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
   - Al posicionarse sobre el botón Reservar del nav debe transformarse en una carita sonriente 😍
 
 ### Sidequest 5
-- Nos acordamos tarde de que los hoteles reciben tráfico de todo el mundo 👽. Agregarle funcionalidad al botón `English` del nav, haciendo que todo el sitio se traduzca al inglés (Goole Translate FTW)
+- Utiliza `Sanity` como herramienta de CMS para administrar y gestionar los contenidos del sitio.
+
+### Sidequest Extra
+- Nos acordamos tarde de que los hoteles reciben tráfico de todo el mundo 👽. Si hiciste el sidequest anterior, agrega la posibilidad del que sitio tenga internationalization para inglés y español y que pueda gestionar los contenidos desde el CMS.
 
 **Happy coding!** 👾
 
