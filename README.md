@@ -50,7 +50,7 @@ El desafío es armar una homepage para Nomad, una cadena de hoteles para trabaja
 - Utiliza `Sanity` como herramienta de CMS para administrar y gestionar los contenidos del sitio.
 
 ### Sidequest Extra
-- Nos acordamos tarde de que los hoteles reciben tráfico de todo el mundo 👽. Si hiciste el sidequest anterior, agrega la posibilidad del que sitio tenga internationalization para inglés y español y que pueda gestionar los contenidos desde el CMS.
+- Nos acordamos tarde de que los hoteles reciben tráfico de todo el mundo 👽. Si hiciste el sidequest anterior, agrega la posibilidad al sitio de que tenga internationalization para inglés y español y que se pueda gestionar los contenidos desde el CMS.
 
 **Happy coding!** 👾
 
